@@ -1,2 +1,2 @@
 # RaceTheSun
- A parody of "RACE THE SUN"
+The first game that survived to release
